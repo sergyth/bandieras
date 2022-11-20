@@ -39,12 +39,12 @@ body{
    
 }
 .bandiera-name{
-   width: 200px;
+   width: 300px;
    height: 30px;
    margin: 0 auto;
-   margin-top: 100px;
+   margin-top: 120px;
    background: #d6d7d8;
-   font-size: 0.5em;
+   font-size: 0.8em;
    text-align: center;
   display: flex;
   align-items: center;
